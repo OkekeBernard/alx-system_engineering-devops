@@ -1,1 +1,2 @@
-this is interesting
+#!/bin/bash
+The beginning of the project
